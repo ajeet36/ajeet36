@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ajeet36/ajeet36/blob/main/Github_Banner1.png)
 <h1 align="center">Hi 👋, I'm Ajeet Dubey</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://i0.wp.com/www.epsiloneg.com/wp-content/uploads/2021/07/business_advantages_of_data_analysis.jpg?fit=960%2C576&ssl=1">
