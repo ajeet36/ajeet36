@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ajeetdubey5920@gmail.com**
 
-- 📄 Know about my experiences [Resume_Link](https://drive.google.com/file/d/1LE1kkzWydnrcC7eNp38iXYvUwu38EAqp/view?usp=drive_link)
+- 📄 Know about my experiences [Resume_Link](https://drive.google.com/file/d/1cKKT3JEbTwhhBt3-dvDE_9yohRGSWvjs/view?usp=sharing)
 
 - ⚡ Fun fact **friendly**
 
